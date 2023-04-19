@@ -1,1 +1,2 @@
 this is a sample info text file
+this is for branch 2
